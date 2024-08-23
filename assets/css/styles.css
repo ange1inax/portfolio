@@ -106,7 +106,7 @@ nav ul li {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 20rem;
+  gap: 100rem;
   max-width: 100rem;
   margin: auto;
 }
